@@ -1,0 +1,27 @@
+body{
+  background-color: #393E46;
+}
+h1{
+  text-align: center;
+  font-family: 'lobster' , cursive;
+  font-size: 150px;
+  color: #4ECCA3;
+  text-shadow: black;
+}
+.dicebox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 48vh;
+  gap: 100px;
+}
+p{
+  text-align: center;
+  font-family: 'indie flower' , cursive;
+  font-size: 50px;
+  color: #4ECCA3;
+  text-shadow: black;
+}
+.footer{
+  margin-top: 150px;
+}
